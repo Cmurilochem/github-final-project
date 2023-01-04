@@ -8,4 +8,4 @@
    <b> r, </b> annual rate of interest <br>
    
 <b> Output: </b> <br>
-   <b> simple interest </b> = p &times t &times r <br>
+   <b> simple interest </b> = p &times; t &times; r <br>
